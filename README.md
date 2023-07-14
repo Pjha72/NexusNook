@@ -30,4 +30,5 @@ To run the NexusNook website locally on your machine, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/nexus-nook.git ```
+git clone https://github.com/your-username/nexus-nook.git
+
