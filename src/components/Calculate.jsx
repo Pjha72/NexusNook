@@ -5,7 +5,7 @@ export default function Calculate() {
   const [timestamp2, setTimestamp2] = useState("");
   const [difference, setDifference] = useState("");
 
-  const handleCalculate = () => {
+  const handleCalculate = (e) => {
     e.preventDefault();
     const [day1, month1, year1, hours1, minutes1, seconds1] =
       timestamp1.split(" ");
